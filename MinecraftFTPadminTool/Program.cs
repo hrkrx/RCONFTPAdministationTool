@@ -13,8 +13,6 @@ namespace MinecraftFTPadminTool
         [STAThread]
         static void Main()
         {
-           
-            
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             MFTPrc _frm = new MFTPrc();

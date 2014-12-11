@@ -6,7 +6,7 @@ using System.Net;
 
 namespace QuakeRcon
 {
-    class RCON
+    public class RCON
     {   
 
         public string sendCommand(string rconCommand, string gameServerIP, string password, int gameServerPort)
